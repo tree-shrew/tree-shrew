@@ -1,12 +1,11 @@
-# 👋 [@tree-shrew] 🚀
-<img src="" alt="GIF" align=right width=380>
+# 👋Hey there, I'm Shreya🫰 <img src="https://private-user-images.githubusercontent.com/74038190/238355349-7d484dc9-68a9-4ee6-a767-aea59035c12d.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MTU5NzM3MzksIm5iZiI6MTcxNTk3MzQzOSwicGF0aCI6Ii83NDAzODE5MC8yMzgzNTUzNDktN2Q0ODRkYzktNjhhOS00ZWU2LWE3NjctYWVhNTkwMzVjMTJkLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDA1MTclMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwNTE3VDE5MTcxOVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTY3YzgyYzgwMTgzNjY2OWU4YmYxNTZjMWFkYzE3NDZlYjU3ZWJmODQwN2RhOGVmOGRmNzI3MmU5YjM2NmYyNTQmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.cigaYBwHL6TkNarBjQ0pr6cENWBFXyZdMg1_wHa6UMY" alt="GIF" align=right width=500>
 
 ## 📖 About 
-- 🧑‍💻 Operations Analyst at **@Amazon** 
+- 🚀 Operations Analyst at **@Amazon** 
 - 🥨 ML Algorithms for breakfast 
 - 🎨 Freelance Artist 
 - 👀 Seeking conversations
-- 🏃 Always ready to: trek, hunt food, volunteer
+- 🏃 Always ready to: trek, volunteer, hunt food
 
 ---
 
