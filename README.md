@@ -1,4 +1,4 @@
-# 👋Hey there! I'm Shreya🫰 <img src="https://private-user-images.githubusercontent.com/74038190/238355349-7d484dc9-68a9-4ee6-a767-aea59035c12d.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MTU5NzM3MzksIm5iZiI6MTcxNTk3MzQzOSwicGF0aCI6Ii83NDAzODE5MC8yMzgzNTUzNDktN2Q0ODRkYzktNjhhOS00ZWU2LWE3NjctYWVhNTkwMzVjMTJkLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDA1MTclMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwNTE3VDE5MTcxOVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTY3YzgyYzgwMTgzNjY2OWU4YmYxNTZjMWFkYzE3NDZlYjU3ZWJmODQwN2RhOGVmOGRmNzI3MmU5YjM2NmYyNTQmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.cigaYBwHL6TkNarBjQ0pr6cENWBFXyZdMg1_wHa6UMY" alt="GIF" align=right width=450>
+# Hey there! I'm Shreya <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="40" height="40" /> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Hand%20with%20Index%20Finger%20and%20Thumb%20Crossed.png" alt="Hand with Index Finger and Thumb Crossed" width="35" height="35" /> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Handshake.png" alt="Handshake" width="35" height="35" /> <img src="https://private-user-images.githubusercontent.com/74038190/238355349-7d484dc9-68a9-4ee6-a767-aea59035c12d.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MTU5NzM3MzksIm5iZiI6MTcxNTk3MzQzOSwicGF0aCI6Ii83NDAzODE5MC8yMzgzNTUzNDktN2Q0ODRkYzktNjhhOS00ZWU2LWE3NjctYWVhNTkwMzVjMTJkLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDA1MTclMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwNTE3VDE5MTcxOVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTY3YzgyYzgwMTgzNjY2OWU4YmYxNTZjMWFkYzE3NDZlYjU3ZWJmODQwN2RhOGVmOGRmNzI3MmU5YjM2NmYyNTQmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.cigaYBwHL6TkNarBjQ0pr6cENWBFXyZdMg1_wHa6UMY" alt="GIF" align=right width=450>
 
 ## 📖 About 
 - 🚀 Operations Analyst at **@Amazon** 
@@ -88,7 +88,7 @@ I'd love to chat about all things interesting! Feel free to reach out:
 
 ---
 
-![Profile views](https://komarev.com/ghpvc/?username=tree-shrew&color=brightgreen) 🥲
+![Profile views](https://komarev.com/ghpvc/?username=tree-shrew&color=brightgreen) <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Smiling%20Face%20with%20Tear.png" alt="Smiling Face with Tear" width="30" height="30" />
 
 > "In every piece of data lies a story waiting to be told, and in every stroke of the brush lies an emotion waiting to be felt." - [@tree-shrew]
 
@@ -96,11 +96,10 @@ I'd love to chat about all things interesting! Feel free to reach out:
 
 ### 🌟 Fun Fact:
 
-Tree Shrews seem to be the earliest mapped ancestors for humans! 🐹
-
+Tree Shrews are believed to be the earliest mapped ancestors for humans!
 - [Rat-like creatures were the earliest eutherian mammal ancestors](https://www.livescience.com/60888-rat-creatures-were-earliest-eutherian-mammal-ancestors.html)
-- [The framing of the shrew as placental mammals' last common ancestor](https://www.theguardian.com/science/2022/oct/27/the-framing-of-the-shrew-as-placental-mammals-last-common-ancestor)
-- [ScienceDirect article on placental mammals' last common ancestor](https://www.sciencedirect.com/science/article/abs/pii/S1055790313004363)
+- [The framing of the shrew as placental mammals' last common ancestor](https://www.theguardian.com/science/2022/oct/27/the-framing-of-the-shrew-as-placental-mammals-last-common-ancestor) <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Chipmunk.png" alt="Chipmunk" width="50" height="50" align=right>
+- [ScienceDirect article on placental mammals' last common ancestor](https://www.sciencedirect.com/science/article/abs/pii/S1055790313004363)  
 
 
 Thanks for visiting! Feel free to explore my repositories and drop me a message if you'd like to collaborate or just chat about data, art, or anything in between.
