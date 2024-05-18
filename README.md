@@ -21,7 +21,7 @@ I'm diving headfirst into the world of data, uncovering insights, and building m
 
 ![Python](https://img.shields.io/badge/-Python-43B02A?style=flat&logo=python&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/-Jupyter-0052CC?style=flat&logo=jupyter&logoColor=white)
-![MySQL](https://img.shields.io/badge/-MySQL-FF6C37?style=flat&logo=sql&logoColor=white)
+![MySQL](https://img.shields.io/badge/-SQL-FF6C37?style=flat&logo=sql&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/-Matplotlib-F05032?style=flat&logo=matplotlib&logoColor=white)
 ![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat&logo=pandas&logoColor=white)
