@@ -72,7 +72,7 @@ When I'm not analyzing data or ensuring quality, you'll find me immersed in the 
   <img src="https://github.com/tree-shrew/tree-shrew/blob/main/media/11.png" alt="Art 5" width="50" height="71.5" style="display: inline-block; margin-right: 5px;">
   <img src="https://github.com/tree-shrew/tree-shrew/blob/main/media/13.png" alt="Art 5" width="50" height="71.5" style="display: inline-block; margin-right: 5px;">
   <img src="https://github.com/tree-shrew/tree-shrew/blob/main/media/16.png" alt="Art 5" width="71.5" height="50" style="display: inline-block; margin-right: 5px;">
-  <img src="https://github.com/tree-shrew/tree-shrew/blob/main/12.png" alt="Art 5" width="50" height="71.5" style="display: inline-block; margin-right: 5px;">
+  <img src="https://github.com/tree-shrew/tree-shrew/blob/main/media/12.png" alt="Art 5" width="50" height="71.5" style="display: inline-block; margin-right: 5px;">
 
 </div>
 
