@@ -90,7 +90,7 @@ I'd love to chat about all things interesting! Feel free to reach out:
 
 ![Profile views](https://komarev.com/ghpvc/?username=tree-shrew&color=brightgreen) 🥲
 
-> *"In every piece of data lies a story waiting to be told, and in every stroke of the brush lies an emotion waiting to be felt." - [@tree-shrew]
+> "In every piece of data lies a story waiting to be told, and in every stroke of the brush lies an emotion waiting to be felt." - [@tree-shrew]
 
 ---
 
