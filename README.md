@@ -1,8 +1,9 @@
-# 👋 Hey, I'm [Shreya] 🚀
+# 👋 [@tree-shrew] 🚀
+<img src="" alt="GIF" align=right width=380>
 
-## 📖 About
-- 🧑‍💻 Operations Analyst at **@Amazon**
-- 🥨 ML algorithms for breakfast
+## 📖 About 
+- 🧑‍💻 Operations Analyst at **@Amazon** 
+- 🥨 ML Algorithms for breakfast 
 - 🎨 Freelance Artist 
 - 👀 Seeking conversations
 - 🏃 Always ready to: trek, hunt food, volunteer
@@ -55,15 +56,27 @@ When I'm not analyzing data or ensuring quality, you'll find me immersed in the 
 - 🫧 **Styles**: Abstract, Realism, Surrealism
 - 🌠 **Inspiration**: Nature, Theology, Emotions
 
-### My Art adventures:
+### My Art endeavours:
 
 <div style="white-space: nowrap; overflow-x: auto; padding: 5px;">
 
-  <img src="https://via.placeholder.com/200" alt="Art 1" width="50" height="20" style="display: inline-block; margin-right: 5px;">
-  <img src="https://via.placeholder.com/200" alt="Art 2" width="50" height="20" style="display: inline-block; margin-right: 5px;">
-  <img src="https://via.placeholder.com/200" alt="Art 3" width="50" height="20" style="display: inline-block; margin-right: 5px;">
-  <img src="https://via.placeholder.com/200" alt="Art 4" width="50" height="20" style="display: inline-block; margin-right: 5px;">
-  <img src="https://via.placeholder.com/200" alt="Art 5" width="50" height="20" style="display: inline-block; margin-right: 5px;">
+  <img src="https://github.com/tree-shrew/tree-shrew/blob/main/3.png" alt="Art 1" width="50" height="71.5" style="display: inline-block; margin-right: 5px;">
+  <img src="https://github.com/tree-shrew/tree-shrew/blob/main/7.png" alt="Art 2" width="50" height="71.5" style="display: inline-block; margin-right: 5px;">
+  <img src="https://github.com/tree-shrew/tree-shrew/blob/main/5.png" alt="Art 3" width="71.5" height="50" style="display: inline-block; margin-right: 5px;">
+  <img src="https://github.com/tree-shrew/tree-shrew/blob/main/6.png" alt="Art 4" width="50" height="71.5" style="display: inline-block; margin-right: 5px;">
+  <img src="https://github.com/tree-shrew/tree-shrew/blob/main/1.png" alt="Art 5" width="50" height="71.5" style="display: inline-block; margin-right: 5px;">
+  <img src="https://github.com/tree-shrew/tree-shrew/blob/main/2.png" alt="Art 5" width="50" height="71.5" style="display: inline-block; margin-right: 5px;">
+  <img src="https://github.com/tree-shrew/tree-shrew/blob/main/4.png" alt="Art 5" width="50" height="71.5" style="display: inline-block; margin-right: 5px;">
+  <img src="https://github.com/tree-shrew/tree-shrew/blob/main/8.png" alt="Art 5" width="50" height="71.5" style="display: inline-block; margin-right: 5px;">
+  <img src="https://github.com/tree-shrew/tree-shrew/blob/main/9.png" alt="Art 5" width="50" height="71.5" style="display: inline-block; margin-right: 5px;">
+  <img src="https://github.com/tree-shrew/tree-shrew/blob/main/10.png" alt="Art 5" width="50" height="71.5" style="display: inline-block; margin-right: 5px;">
+  <img src="https://github.com/tree-shrew/tree-shrew/blob/main/11.png" alt="Art 5" width="50" height="71.5" style="display: inline-block; margin-right: 5px;">
+  <img src="https://github.com/tree-shrew/tree-shrew/blob/main/13.png" alt="Art 5" width="50" height="71.5" style="display: inline-block; margin-right: 5px;">
+  <img src="https://github.com/tree-shrew/tree-shrew/blob/main/16.png" alt="Art 5" width="71.5" height="50" style="display: inline-block; margin-right: 5px;">
+  <img src="https://github.com/tree-shrew/tree-shrew/blob/main/12.png" alt="Art 5" width="50" height="71.5" style="display: inline-block; margin-right: 5px;">
+  <img src="https://github.com/tree-shrew/tree-shrew/blob/main/14.png" alt="Art 5" width="50" height="71.5" style="display: inline-block; margin-right: 5px;">
+  <img src="https://github.com/tree-shrew/tree-shrew/blob/main/17.png" alt="Art 5" width="50" height="71.5" style="display: inline-block; margin-right: 5px;">
+  <img src="https://github.com/tree-shrew/tree-shrew/blob/main/15.png" alt="Art 5" width="50" height="71.5" style="display: inline-block; margin-right: 5px;">
 
 </div>
 
