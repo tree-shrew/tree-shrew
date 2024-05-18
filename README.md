@@ -1,4 +1,4 @@
-# 👋Hey there, I'm Shreya🫰 <img src="https://private-user-images.githubusercontent.com/74038190/238355349-7d484dc9-68a9-4ee6-a767-aea59035c12d.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MTU5NzM3MzksIm5iZiI6MTcxNTk3MzQzOSwicGF0aCI6Ii83NDAzODE5MC8yMzgzNTUzNDktN2Q0ODRkYzktNjhhOS00ZWU2LWE3NjctYWVhNTkwMzVjMTJkLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDA1MTclMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwNTE3VDE5MTcxOVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTY3YzgyYzgwMTgzNjY2OWU4YmYxNTZjMWFkYzE3NDZlYjU3ZWJmODQwN2RhOGVmOGRmNzI3MmU5YjM2NmYyNTQmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.cigaYBwHL6TkNarBjQ0pr6cENWBFXyZdMg1_wHa6UMY" alt="GIF" align=right width=450>
+# 👋Hey there! I'm Shreya🫰 <img src="https://private-user-images.githubusercontent.com/74038190/238355349-7d484dc9-68a9-4ee6-a767-aea59035c12d.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MTU5NzM3MzksIm5iZiI6MTcxNTk3MzQzOSwicGF0aCI6Ii83NDAzODE5MC8yMzgzNTUzNDktN2Q0ODRkYzktNjhhOS00ZWU2LWE3NjctYWVhNTkwMzVjMTJkLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDA1MTclMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwNTE3VDE5MTcxOVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTY3YzgyYzgwMTgzNjY2OWU4YmYxNTZjMWFkYzE3NDZlYjU3ZWJmODQwN2RhOGVmOGRmNzI3MmU5YjM2NmYyNTQmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.cigaYBwHL6TkNarBjQ0pr6cENWBFXyZdMg1_wHa6UMY" alt="GIF" align=right width=450>
 
 ## 📖 About 
 - 🚀 Operations Analyst at **@Amazon** 
@@ -59,20 +59,20 @@ When I'm not analyzing data or ensuring quality, you'll find me immersed in the 
 
 <div style="white-space: nowrap; overflow-x: auto; padding: 5px;">
 
-  <img src="https://github.com/tree-shrew/tree-shrew/blob/main/3.png" alt="Art 1" width="50" height="71.5" style="display: inline-block; margin-right: 5px;">
-  <img src="https://github.com/tree-shrew/tree-shrew/blob/main/7.png" alt="Art 2" width="50" height="71.5" style="display: inline-block; margin-right: 5px;">
-  <img src="https://github.com/tree-shrew/tree-shrew/blob/main/5.png" alt="Art 3" width="71.5" height="50" style="display: inline-block; margin-right: 5px;">
-  <img src="https://github.com/tree-shrew/tree-shrew/blob/main/6.png" alt="Art 4" width="50" height="71.5" style="display: inline-block; margin-right: 5px;">
-  <img src="https://github.com/tree-shrew/tree-shrew/blob/main/1.png" alt="Art 5" width="50" height="71.5" style="display: inline-block; margin-right: 5px;">
-  <img src="https://github.com/tree-shrew/tree-shrew/blob/main/2.png" alt="Art 5" width="50" height="71.5" style="display: inline-block; margin-right: 5px;">
-  <img src="https://github.com/tree-shrew/tree-shrew/blob/main/4.png" alt="Art 5" width="50" height="71.5" style="display: inline-block; margin-right: 5px;">
-  <img src="https://github.com/tree-shrew/tree-shrew/blob/main/8.png" alt="Art 5" width="50" height="71.5" style="display: inline-block; margin-right: 5px;">
-  <img src="https://github.com/tree-shrew/tree-shrew/blob/main/9.png" alt="Art 5" width="50" height="71.5" style="display: inline-block; margin-right: 5px;">
-  <img src="https://github.com/tree-shrew/tree-shrew/blob/main/10.png" alt="Art 5" width="50" height="71.5" style="display: inline-block; margin-right: 5px;">
-  <img src="https://github.com/tree-shrew/tree-shrew/blob/main/11.png" alt="Art 5" width="50" height="71.5" style="display: inline-block; margin-right: 5px;">
-  <img src="https://github.com/tree-shrew/tree-shrew/blob/main/13.png" alt="Art 5" width="50" height="71.5" style="display: inline-block; margin-right: 5px;">
-  <img src="https://github.com/tree-shrew/tree-shrew/blob/main/16.png" alt="Art 5" width="71.5" height="50" style="display: inline-block; margin-right: 5px;">
-  <img src="https://github.com/tree-shrew/tree-shrew/blob/main/12.png" alt="Art 5" width="50" height="71.5" style="display: inline-block; margin-right: 5px;">
+  <img src="https://github.com/tree-shrew/tree-shrew/blob/main/3.png" alt="Art 1" width="50" height="71.5" style="display: inline-block; margin-right: 6px;">
+  <img src="https://github.com/tree-shrew/tree-shrew/blob/main/7.png" alt="Art 2" width="50" height="71.5" style="display: inline-block; margin-right: 6px;">
+  <img src="https://github.com/tree-shrew/tree-shrew/blob/main/5.png" alt="Art 3" width="71.5" height="50" style="display: inline-block; margin-right: 6px;">
+  <img src="https://github.com/tree-shrew/tree-shrew/blob/main/6.png" alt="Art 4" width="50" height="71.5" style="display: inline-block; margin-right: 6px;">
+  <img src="https://github.com/tree-shrew/tree-shrew/blob/main/1.png" alt="Art 5" width="50" height="71.5" style="display: inline-block; margin-right: 6px;">
+  <img src="https://github.com/tree-shrew/tree-shrew/blob/main/2.png" alt="Art 5" width="50" height="71.5" style="display: inline-block; margin-right: 6px;">
+  <img src="https://github.com/tree-shrew/tree-shrew/blob/main/4.png" alt="Art 5" width="50" height="71.5" style="display: inline-block; margin-right: 6px;">
+  <img src="https://github.com/tree-shrew/tree-shrew/blob/main/8.png" alt="Art 5" width="50" height="71.5" style="display: inline-block; margin-right: 6px;">
+  <img src="https://github.com/tree-shrew/tree-shrew/blob/main/9.png" alt="Art 5" width="50" height="71.5" style="display: inline-block; margin-right: 6px;">
+  <img src="https://github.com/tree-shrew/tree-shrew/blob/main/10.png" alt="Art 5" width="50" height="71.5" style="display: inline-block; margin-right: 6px;">
+  <img src="https://github.com/tree-shrew/tree-shrew/blob/main/11.png" alt="Art 5" width="50" height="71.5" style="display: inline-block; margin-right: 6px;">
+  <img src="https://github.com/tree-shrew/tree-shrew/blob/main/13.png" alt="Art 5" width="50" height="71.5" style="display: inline-block; margin-right: 6px;">
+  <img src="https://github.com/tree-shrew/tree-shrew/blob/main/16.png" alt="Art 5" width="71.5" height="50" style="display: inline-block; margin-right: 6px;">
+  <img src="https://github.com/tree-shrew/tree-shrew/blob/main/12.png" alt="Art 5" width="50" height="71.5" style="display: inline-block; margin-right: 6px;">
 
 </div>
 
