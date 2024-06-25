@@ -1,7 +1,7 @@
 # Hey there! I'm Shreya <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="40" height="40" /> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Hand%20with%20Index%20Finger%20and%20Thumb%20Crossed.png" alt="Hand with Index Finger and Thumb Crossed" width="35" height="35" /> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Handshake.png" alt="Handshake" width="35" height="35" /> <img src="https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F04927bcc-54e3-4e7c-ac39-4f24ac869b10_750x422.gif" alt="GIF" align=right width=400 height=280>
 
 ## 📖 About 
-- 🚀 Operations Analyst at **@Amazon** 
+- 🚀 Operations Team Manager at **@Amazon** 
 - 🥨 ML Algorithms for breakfast 
 - 🎨 Freelance Artist 
 - 👀 Seeking conversations
